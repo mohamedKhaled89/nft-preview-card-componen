@@ -22,8 +22,8 @@ This HTML & CSS only challenge is perfect for anyone just starting out or anyone
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedKhaled89/nft-preview-card-componen]
-- Live Site URL: [https://mohamedkhaled89.github.io/nft-preview-card-componen/]
+- Solution URL: [https://github.com/mohamedKhaled89/nft-preview-card-component]
+- Live Site URL: [https://mohamedkhaled89.github.io/nft-preview-card-component/]
 
 ## My process
 
